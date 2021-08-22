@@ -2,4 +2,4 @@
 
 Ovdje će se nalaziti html/css, možda čak i js od moje osobne web stranice
 
-Adresa web stranice: IvanoRanogajec.github.io.git
+Adresa web stranice: IvanoRanogajec.github.io.
